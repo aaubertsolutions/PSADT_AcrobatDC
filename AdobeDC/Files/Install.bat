@@ -1,0 +1,2 @@
+AcroRdrDC2300620360_fr_FR.exe /sAll /rs /l /msi EULA_ACCEPT=YES
+TIMEOUT /T 10
